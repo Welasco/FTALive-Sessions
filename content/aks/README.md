@@ -6,5 +6,5 @@ Welcome to the FTA Live series designed to get your started with Best Practices 
 
 Click on the links below to view the material shared to attendees for each session.
 
-[AKS Monitoring ](./monitoring/README.md)
-[AKS Networking](./networking/README.md)
+1. [AKS Monitoring ](./monitoring/README.md)
+2. [AKS Networking](./networking/README.md)
